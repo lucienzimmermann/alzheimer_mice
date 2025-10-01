@@ -9,3 +9,8 @@ Léo
 Lucien 
 
 Please, everyone create his branch and be aware to always choose YOUR branch when coding on VS Code.
+
+Which file contains what : 
+https://www.10xgenomics.com/support/software/xenium-onboard-analysis/latest/analysis/xoa-output-understanding-outputs
+
+How to read specific files format using python : https://www.10xgenomics.com/support/software/xenium-onboard-analysis/latest/advanced/example-code
