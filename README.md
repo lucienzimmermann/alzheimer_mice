@@ -1,14 +1,9 @@
 # Welcome on the ADA project
 
-Members :
-
-Chloé
-
-Thibault
-
-Gwen
-
-Léo
-
+Members : 
+Chloé 
+Thibault 
+Gwen 
+Léo 
 Lucien
 
