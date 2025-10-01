@@ -1,4 +1,4 @@
-# Welcome on the ADA project
+# Welcome on the ADA project repository
 
 Members :   
 
