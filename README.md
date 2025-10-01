@@ -1,2 +1,8 @@
-# alzheimer_mice
-ADA 2025 project
+# Welcome on the ADA project
+
+Members :
+Chloé
+Thibault
+Gwen
+Léo
+Lucien
